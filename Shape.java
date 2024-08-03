@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program2 {
+public class Shape {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int length = scanner.nextInt();
